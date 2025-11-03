@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #EB4304;
+    --primary-color: #A21615;
     --secondary-color: #003751
 }
 
@@ -21,7 +21,7 @@
     content: "";
     width: 80px;
     height: 80px;
-    border: 3px solid #EB4304;
+    border: 3px solid #A21615;
     display: block;
     border-radius: 50%;
     position: absolute;
@@ -39,7 +39,7 @@
     content: "";
     width: 80px;
     height: 80px;
-    border: 3px solid #EB4304;
+    border: 3px solid #A21615;
     display: block;
     border-radius: 50%;
     position: absolute;
@@ -82,7 +82,7 @@
 
 a:hover,
 a:active {
-    color: #EB4304;
+    color: #A21615;
     text-decoration: none
 }
 
@@ -96,16 +96,16 @@ a:active {
 }
 
 .bg-primary {
-    background-color: #EB4304 !important
+    background-color: #A21615 !important
 }
 
 .bg-secondary {
-    background-color: #003751 !important;
-    background-color:#07202b !important
+    background-color: #050e3f !important;
+    /* background-color:#07202b !important */
 }
 
 .primary-overlay[data-overlay-dark]:before {
-    background: #EB4304
+    background: #A21615
 }
 
 .secondary-overlay[data-overlay-dark]:before {
@@ -123,7 +123,7 @@ a:active {
 
 .text-primary,
 .text-primary-hover:hover {
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 .text-secondary,
@@ -134,7 +134,7 @@ a:active {
 a.text-primary:focus,
 a.text-primary:hover,
 a.text-primary:active {
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 .cursor-pointer {
@@ -194,7 +194,7 @@ a.text-primary:active {
     position: absolute;
     width: 3px;
     height: 74px;
-    background: #EB4304;
+    background: #A21615;
     top: 50%;
     left: 0;
     transform: translateY(-50%)
@@ -214,7 +214,7 @@ a.text-primary:active {
 }
 
 .icon-one:hover {
-    background-color: #EB4304;
+    background-color: #A21615;
     transition: .4s
 }
 
@@ -224,7 +224,7 @@ a.text-primary:active {
     bottom: 0;
     width: 30px;
     height: 30px;
-    background-color: #EB4304;
+    background-color: #A21615;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -249,7 +249,7 @@ a.text-white-hover:hover {
     left: 0;
     content: "";
     background: #003751;
-    background-image: linear-gradient(to right top, #003751, #003751, #003751, #003751, #EB4304)
+    background-image: linear-gradient(to right top, #003751, #003751, #003751, #003751, #A21615)
 }
 
 .primary-shadow {
@@ -359,9 +359,9 @@ a.text-white-hover:hover {
 
 .border-text.primary {
     text-fill-color: transparent;
-    text-stroke-color: #EB4304;
+    text-stroke-color: #A21615;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke-color: #EB4304;
+    -webkit-text-stroke-color: #A21615;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px
 }
@@ -389,7 +389,7 @@ a.text-white-hover:hover {
     height: 10px;
     margin: auto;
     border-radius: 100%;
-    border: 2px solid #EB4304;
+    border: 2px solid #A21615;
     display: inline-block;
     vertical-align: middle
 }
@@ -403,7 +403,7 @@ a.text-white-hover:hover {
 }
 
 .border-color-primary {
-    border-color: #EB4304 !important
+    border-color: #A21615 !important
 }
 
 .list-style01 li {
@@ -432,11 +432,11 @@ a.text-white-hover:hover {
     height: 2px;
     width: 0;
     bottom: -2px;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .list-style01 li a:hover {
-    color: #EB4304
+    color: #A21615
 }
 
 .list-style01 li a:hover:after {
@@ -456,7 +456,7 @@ a.text-white-hover:hover {
     left: 0;
     top: 6px;
     line-height: 1;
-    color: #EB4304
+    color: #A21615
 }
 
 .list-style02 li:after {
@@ -518,12 +518,12 @@ a.text-white-hover:hover {
 }
 
 .list-style03 li a:hover {
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #ffffff
 }
 
 .list-style03 li.active a {
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #ffffff
 }
 
@@ -558,7 +558,7 @@ a.text-white-hover:hover {
     top: 1px;
     z-index: 1;
     font-weight: 600;
-    color: #EB4304
+    color: #A21615
 }
 
 .list-style05 li:last-child {
@@ -608,7 +608,7 @@ a.text-white-hover:hover {
     left: 0;
     font-weight: 700;
     line-height: 35px;
-    color: #EB4304
+    color: #A21615
 }
 
 .scroll-top-percentage {
@@ -699,7 +699,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: #EB4304;
+    background: #A21615;
     color: #fff;
     line-height: 1.5;
     font-weight: 700;
@@ -732,11 +732,11 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 
 .butn-style01.white {
     background: #fff;
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 .butn-style01.white:hover {
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #fff !important
 }
 
@@ -744,11 +744,11 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 .butn-style01.white-hover:active,
 .butn-style01.white-hover:focus {
     background-color: #fff !important;
-    color: #EB4304
+    color: #A21615
 }
 
 .butn-style02 {
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #fff !important;
     font-size: 14px !important;
     padding: 12px 30px !important;
@@ -795,7 +795,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     display: inline-block;
     text-transform: capitalize;
     text-align: center;
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #fff !important;
     font-size: 16px !important;
     font-weight: 700;
@@ -828,7 +828,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 }
 
 .butn-style03:hover {
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 .butn-style03.secondary {
@@ -877,10 +877,10 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     overflow: hidden !important;
     display: inline-block;
     text-align: center;
-    border: 2px solid #EB4304;
+    border: 2px solid #A21615;
     color: #fff;
     z-index: 1;
-    background-color: #EB4304;
+    background-color: #A21615;
     vertical-align: middle;
     text-transform: uppercase
 }
@@ -905,7 +905,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 .butn-style04:hover,
 .butn-style04:focus,
 .butn-style04:active {
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #fff
 }
 
@@ -1051,7 +1051,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 
 .navbar-nav li.current>a,
 .navbar-nav li.active>a {
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 .attr-nav>ul>li>a.butn {
@@ -1059,98 +1059,98 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 }
 
 .navbar>ul>li.current>a:after {
-    border-color: transparent #EB4304 #EB4304 transparent !important
+    border-color: transparent #A21615 #A21615 transparent !important
 }
 
 .menu_area-light .navbar-nav li.current>a,
 .menu_area-light .navbar-nav li.active>a {
-    color: #EB4304
+    color: #A21615
 }
 
 .menu_area-light .navbar>ul>li.current>a:after {
-    border-color: transparent #EB4304 #EB4304 transparent
+    border-color: transparent #A21615 #A21615 transparent
 }
 
 .menu_area-light.scrollHeader .navbar-nav li.current>a {
-    color: #EB4304
+    color: #A21615
 }
 
 .menu_area-light.scrollHeader .navbar-nav li.current>a:hover {
-    color: #EB4304
+    color: #A21615
 }
 
 .menu_area-light.scrollHeader .navbar-nav li.active>a {
-    color: #EB4304
+    color: #A21615
 }
 
 .menu_area-light.scrollHeader .navbar>ul>li.current>a:after {
-    border-color: transparent #EB4304 #EB4304 transparent
+    border-color: transparent #A21615 #A21615 transparent
 }
 
 @media screen and (min-width: 992px) {
 
     .menu_area-light .navbar ul ul li.active>a,
     .menu_area-light .navbar-nav li.has-sub a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .menu_area-light .navbar>ul>li.has-sub>a:hover:after {
-        border-color: #EB4304
+        border-color: #A21615
     }
 
     .menu_area-light.scrollHeader .navbar-nav>li.has-sub>a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2.scrollHeader .navbar-nav>li.has-sub>a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2.scrollHeader .navbar-nav>li.has-sub>a:hover:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 
     .header-style2 .navbar>ul>li.has-sub.current>a:hover:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 
     .header-style2.scrollHeader .navbar-nav li.current>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2.scrollHeader .navbar-nav li.current>a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2.scrollHeader .navbar>ul>li.current>a:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 
     .header-style2 .navbar ul ul li.active>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2 .navbar-nav li.has-sub a:hover,
     .header-style2 .navbar-nav li.has-sub a:active,
     .header-style2 .navbar-nav li.has-sub a:focus {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2 .navbar-nav li.current>a,
     .header-style2 .navbar-nav li.active>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2 .navbar>ul>li.has-sub>a:hover:after,
     .header-style2 .navbar>ul>li.has-sub>a:active:after,
     .header-style2 .navbar>ul>li.has-sub>a:focus:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 }
 
 @media screen and (max-width: 991px) {
     .header-style1 .navbar-toggler {
-        background: #EB4304
+        background: #A21615
     }
 
     .header-style1 .navbar-toggler:after {
@@ -1169,28 +1169,28 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 }
 
 .header-style2 .navbar-nav li.current>a {
-    color: #EB4304
+    color: #A21615
 }
 
 .header-style2 .navbar>ul>li.current>a:after {
-    border-color: transparent #EB4304 #EB4304 transparent
+    border-color: transparent #A21615 #A21615 transparent
 }
 
 .header-style2.scrollHeader .navbar-nav li.current>a {
-    color: #EB4304
+    color: #A21615
 }
 
 .header-style2.scrollHeader .navbar-nav li.current>a:hover {
-    color: #EB4304
+    color: #A21615
 }
 
 .header-style2.scrollHeader .navbar>ul>li.current>a:after {
-    border-color: transparent #EB4304 #EB4304 transparent
+    border-color: transparent #A21615 #A21615 transparent
 }
 
 @media screen and (min-width: 992px) {
     .header-style2 .navbar ul ul li.active>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style2 .butn.secondary:before {
@@ -1204,7 +1204,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     }
 
     .header-style2.scrollHeader .butn.secondary:before {
-        background: #EB4304
+        background: #A21615
     }
 
     .header-style2.scrollHeader .butn.secondary:hover,
@@ -1216,66 +1216,66 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 
 .header-style3 .navbar-nav li.current>a,
 .header-style3 .navbar-nav li.active>a {
-    color: #EB4304
+    color: #A21615
 }
 
 @media screen and (min-width: 992px) {
     .header-style3 .navbar-nav li.active>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3 .navbar-nav>li>a:hover,
     .header-style3 .navbar-nav>li>a:active,
     .header-style3 .navbar-nav>li>a:focus {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3 .navbar ul ul li.active>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3 .navbar-nav li.has-sub a:hover,
     .header-style3 .navbar-nav li.current>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3 .navbar-nav>li.has-sub>a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3 .navbar>ul>li.has-sub>a:hover:after,
     .header-style3 .navbar>ul>li.current>a:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 
     .header-style3.scrollHeader .navbar-nav>li.has-sub>a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3.scrollHeader .navbar>ul>li.has-sub>a:hover:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 
     .header-style3.scrollHeader .navbar-nav>li.active>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3.scrollHeader .navbar-nav li.current>a {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3.scrollHeader .navbar-nav li.current>a:hover {
-        color: #EB4304
+        color: #A21615
     }
 
     .header-style3.scrollHeader .navbar>ul>li.current>a:after {
-        border-color: transparent #EB4304 #EB4304 transparent
+        border-color: transparent #A21615 #A21615 transparent
     }
 }
 
 @media screen and (max-width: 991px) {
     .header-style3 .navbar-toggler {
-        background: #EB4304
+        background: #A21615
     }
 
     .header-style3 .navbar-toggler:after {
@@ -1336,8 +1336,8 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     width: 20px;
     height: 20px;
     box-sizing: border-box;
-    background-color: #EB4304;
-    border: 2px solid #EB4304;
+    background-color: #A21615;
+    border: 2px solid #A21615;
     border-radius: 50%;
     -webkit-transform: none;
     transform: none;
@@ -1348,7 +1348,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 .slider-fade1.owl-carousel .owl-dots .owl-dot.active span,
 .slider-fade1.owl-carousel .owl-dots .owl-dot:hover span {
     background-color: transparent;
-    border-color: #EB4304
+    border-color: #A21615
 }
 
 .slider-fade1 .owl-nav button.owl-prev,
@@ -1366,7 +1366,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     width: 50px;
     text-align: center;
     line-height: 50px;
-    background: #EB4304;
+    background: #A21615;
     display: block;
     border-radius: 10px;
     transition: all .3s
@@ -1455,7 +1455,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 
 .title-style01 .sm-title {
     font-size: 13px;
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #fff;
     border-radius: 50rem;
     text-transform: uppercase;
@@ -1475,7 +1475,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     display: inline-block;
     margin-bottom: 12px;
     padding-bottom: 12px;
-    color: #EB4304;
+    color: #A21615;
     z-index: 9
 }
 
@@ -1501,7 +1501,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     height: 8px;
     width: 8px;
     border-radius: 50px;
-    background-color: #EB4304;
+    background-color: #A21615;
     right: 0;
     left: 50%;
     bottom: -3px;
@@ -1680,7 +1680,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     transition: .4s;
     padding: 0;
     margin-bottom: 20px;
-    background-color: #EB4304 !important;
+    background-color: #A21615 !important;
     color: #fff !important; 
 }
 
@@ -1693,12 +1693,12 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 .card-style01:hover .card-body,
 .card-style01:active .card-body,
 .card-style01:focus .card-body {
-    background-color: #EB4304 !important
+    background-color: #A21615 !important
 }
 
 .card-style01 .card-body h3 a {
     padding: 20px 15px;
-    color: #121c22;
+    color: #fff;
     display: block
 }
 
@@ -1854,7 +1854,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 }
 
 .card-style04:hover .card-body .team-inner {
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .card-style04:hover .card-body .team-inner i {
@@ -1920,7 +1920,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
     position: absolute;
     right: 30px;
     top: -42px;
-    background: #EB4304;
+    background: #A21615;
     color: #fff;
     border-radius: 3px;
     line-height: normal;
@@ -2417,7 +2417,7 @@ h2.resp-accordion.resp-tab-active {
 
 .owl-carousel .owl-dots .owl-dot.active span,
 .owl-carousel .owl-dots .owl-dot:hover span {
-    background: #EB4304
+    background: #A21615
 }
 
 .service-carousel-one.owl-carousel .owl-nav {
@@ -2440,7 +2440,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .service-carousel-one.owl-carousel .owl-nav [class*='owl-']:hover {
-    background: #EB4304;
+    background: #A21615;
     transition: .4s
 }
 
@@ -2512,7 +2512,7 @@ h2.resp-accordion.resp-tab-active {
     padding-bottom: 15px;
     padding-top: 6rem;
     margin-bottom: 2.5rem;
-    background-color: #EB4304;
+    background-color: #A21615;
     font-weight: 500;
     color: #fff;
     align-self: end;
@@ -2572,7 +2572,7 @@ h2.resp-accordion.resp-tab-active {
 
 .service-carousel-two.owl-carousel .owl-nav button.owl-prev:hover i,
 .service-carousel-two.owl-carousel .owl-nav button.owl-next:hover i {
-    background: #EB4304 !important
+    background: #A21615 !important
 }
 
 .service-carousel-two.owl-carousel .owl-nav [class*='owl-']:hover,
@@ -2754,7 +2754,7 @@ h2.resp-accordion.resp-tab-active {
     width: 50px;
     text-align: center;
     line-height: 50px;
-    background: #eb4304;
+    background: #A21615;
     display: block;
     border-radius: 10px;
     transition: all .3s
@@ -2767,7 +2767,7 @@ h2.resp-accordion.resp-tab-active {
     width: 50px;
     text-align: center;
     line-height: 50px;
-    background: #eb4304;
+    background: #A21615;
     display: block;
     border-radius: 10px;
     transition: all .3s
@@ -2850,7 +2850,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .services-carousel-four.owl-carousel .owl-nav [class*='owl-']:hover {
-    background: #EB4304;
+    background: #A21615;
     transition: .4s
 }
 
@@ -2881,7 +2881,7 @@ h2.resp-accordion.resp-tab-active {
 .testimonial-carousel-one .owl-dots {
     counter-reset: dots;
     font-size: 1.7rem;
-    color: #EB4304;
+    color: #A21615;
     text-align: start;
     margin-left: 7.7rem
 }
@@ -2892,7 +2892,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .testimonial-carousel-one .owl-dots .owl-dot.active {
-    color: #EB4304
+    color: #A21615
 }
 
 .testimonial-carousel-one .owl-dots .owl-dot:before {
@@ -2992,7 +2992,7 @@ h2.resp-accordion.resp-tab-active {
     width: 50px;
     text-align: center;
     line-height: 50px;
-    background: #EB4304;
+    background: #A21615;
     display: block;
     border-radius: 10px;
     transition: all .3s
@@ -3089,7 +3089,7 @@ h2.resp-accordion.resp-tab-active {
 
 .accordion-style .btn-link {
     background: #fff;
-    color: #EB4304;
+    color: #A21615;
     line-height: 20px;
     position: relative;
     border: none;
@@ -3136,7 +3136,7 @@ h2.resp-accordion.resp-tab-active {
     width: auto;
     top: 20px;
     position: absolute;
-    color: #EB4304
+    color: #A21615
 }
 
 .accordion-style .card-body {
@@ -3243,7 +3243,7 @@ h2.resp-accordion.resp-tab-active {
     line-height: 21px;
     top: 14px;
     position: absolute;
-    color: #EB4304;
+    color: #A21615;
     text-align: center
 }
 
@@ -3384,8 +3384,8 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .sidebar .blog-tags a:hover {
-    border: 1px solid #EB4304;
-    background-color: #EB4304;
+    border: 1px solid #A21615;
+    background-color: #A21615;
     color: #fff
 }
 
@@ -3473,8 +3473,8 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .wp-tag-cloud a:hover {
-    background-color: #EB4304;
-    border-color: #EB4304;
+    background-color: #A21615;
+    border-color: #A21615;
     color: #fff
 }
 
@@ -3509,7 +3509,7 @@ h2.resp-accordion.resp-tab-active {
 .sidebar .contact-icon {
     display: block;
     color: #fff;
-    background: #EB4304;
+    background: #A21615;
     font-size: 20px;
     min-width: 50px;
     min-height: 50px;
@@ -3548,7 +3548,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .widget_categories ul .cat-item a:hover {
-    background-color: #EB4304;
+    background-color: #A21615;
     color: #ffffff
 }
 
@@ -3597,7 +3597,7 @@ h2.resp-accordion.resp-tab-active {
     line-height: 3;
     text-align: center;
     font-size: 20px;
-    background: #EB4304;
+    background: #A21615;
     color: #ffffff
 }
 
@@ -3612,7 +3612,7 @@ h2.resp-accordion.resp-tab-active {
     height: 100%;
     top: 0;
     left: 10px;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .sidebar .widget {
@@ -3920,7 +3920,7 @@ h2.resp-accordion.resp-tab-active {
     top: 1px;
     z-index: 1;
     font-weight: 600;
-    color: #EB4304
+    color: #A21615
 }
 
 .blogs .posts-wrapper .share-post {
@@ -3986,9 +3986,9 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .blog-tags li a:hover {
-    background: #EB4304;
+    background: #A21615;
     color: #ffffff;
-    border: 1px solid #EB4304;
+    border: 1px solid #A21615;
     color: #fff
 }
 
@@ -4020,7 +4020,7 @@ h2.resp-accordion.resp-tab-active {
     display: inline-block;
     padding: 15px 10px;
     text-align: center;
-    background: #EB4304;
+    background: #A21615;
     min-width: 150px;
     margin-right: 4px;
     border-radius: 10px
@@ -4082,7 +4082,7 @@ h2.resp-accordion.resp-tab-active {
 
 .coming-soon .social-icon li a:hover {
     color: #ffffff;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 @media screen and (max-width: 767px) {
@@ -4178,7 +4178,7 @@ h2.resp-accordion.resp-tab-active {
     font-size: 14px;
     border-radius: 5px;
     display: inline-block;
-    background: #EB4304;
+    background: #A21615;
     color: #ffffff
 }
 
@@ -4207,11 +4207,11 @@ h2.resp-accordion.resp-tab-active {
 
 .lg-outer .lg-thumb-item.active,
 .lg-outer .lg-thumb-item:hover {
-    border-color: #EB4304
+    border-color: #A21615
 }
 
 .lg-progress-bar .lg-progress {
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .lg-backdrop.in {
@@ -4299,7 +4299,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .about-style01 .round-text:after {
-    background-color: #EB4304;
+    background-color: #A21615;
     content: "";
     position: absolute;
     left: 0;
@@ -4360,7 +4360,7 @@ h2.resp-accordion.resp-tab-active {
     width: 45px;
     height: 45px;
     line-height: 45px;
-    background-color: #EB4304 !important;
+    background-color: #A21615 !important;
     position: relative;
     font-size: 20px;
     border-radius: 50%;
@@ -4394,7 +4394,7 @@ h2.resp-accordion.resp-tab-active {
     bottom: 0;
     content: '';
     display: block;
-    background-color: #EB4304 !important;
+    background-color: #A21615 !important;
     border-radius: 0
 }
 
@@ -4423,7 +4423,7 @@ h2.resp-accordion.resp-tab-active {
     margin-right: 20px;
     width: 50px;
     height: 50px;
-    border: 2px solid #EB4304;
+    border: 2px solid #A21615;
     border-radius: 50%
 }
 
@@ -4601,13 +4601,13 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .progress-style01 .progress .progress-bar {
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .why-choose-style01 .why-choose-icon {
     width: 75px;
     height: 75px;
-    background-color: #EB4304;
+    background-color: #A21615;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -4712,7 +4712,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .portfolio-style01 .portfolio-box h3 a {
-    color: #EB4304;
+    color: #A21615;
     display: inline-block
 }
 
@@ -4843,7 +4843,7 @@ h2.resp-accordion.resp-tab-active {
     content: "";
     opacity: .9;
     border-radius: 0 0.375rem 0 0;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .portfolio-style02 .portfolio-box .portfolio-text a i {
@@ -4956,7 +4956,7 @@ h2.resp-accordion.resp-tab-active {
     padding-right: 20px;
     border-radius: 30px;
     letter-spacing: -2px;
-    background-color: #EB4304;
+    background-color: #A21615;
     font-size: 16px;
     color: #063232;
     padding-top: 3px;
@@ -4996,7 +4996,7 @@ h2.resp-accordion.resp-tab-active {
 .extra-style01 .right-content .right-icon {
     width: 110px;
     height: 110px;
-    background-color: #EB4304;
+    background-color: #A21615;
     border-radius: 50%;
     margin-right: 20px;
     display: flex;
@@ -5071,7 +5071,7 @@ h2.resp-accordion.resp-tab-active {
 .process-style01 .process-block .process-content h3 {
     font-size: 16px;
     text-transform: uppercase;
-    color: #EB4304;
+    color: #A21615;
     margin-bottom: 10px;
     transition: all 0.3s ease-in-out
 }
@@ -5155,7 +5155,7 @@ h2.resp-accordion.resp-tab-active {
     width: 120px;
     height: 120px;
     margin: 0 auto;
-    background: #EB4304;
+    background: #A21615;
     border-radius: 50% / 10%;
     color: white;
     text-align: center;
@@ -5187,7 +5187,7 @@ h2.resp-accordion.resp-tab-active {
     font-size: 18px;
     line-height: 45px;
     top: -20px;
-    color: #EB4304;
+    color: #A21615;
     border-radius: 50%;
     width: 45px;
     height: 45px;
@@ -5244,7 +5244,7 @@ h2.resp-accordion.resp-tab-active {
     display: inline-block;
     text-align: center;
     line-height: 40px;
-    background: #EB4304;
+    background: #A21615;
     color: #fff;
     border-radius: 50%
 }
@@ -5269,7 +5269,7 @@ h2.resp-accordion.resp-tab-active {
     transform: translate(-50%, -50%);
     content: '';
     border-radius: 50%;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .process-block .process-img .number:after {
@@ -5280,7 +5280,7 @@ h2.resp-accordion.resp-tab-active {
     transform: translate(-50%, -50%);
     content: '';
     border-radius: 50%;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .process-style03 .process-block:hover .process-img .number:before,
@@ -5585,11 +5585,11 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .prev-page .image-prev:after {
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .next-page .image-next:after {
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .prev-page .image-prev:before {
@@ -5764,7 +5764,7 @@ h2.resp-accordion.resp-tab-active {
     width: 9px;
     height: 9px;
     border-radius: 50%;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .vertical-timeline:after {
@@ -5776,7 +5776,7 @@ h2.resp-accordion.resp-tab-active {
     width: 9px;
     height: 9px;
     border-radius: 50%;
-    background-color: #EB4304
+    background-color: #A21615
 }
 
 .vertical-timeline .item {
@@ -6124,12 +6124,12 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .form-control:focus {
-    border-color: #EB4304
+    border-color: #A21615
 }
 
 .form-check-input:checked {
-    border-color: #EB4304;
-    background-color: #EB4304
+    border-color: #A21615;
+    background-color: #A21615
 }
 
 .quform-input {
@@ -6325,7 +6325,7 @@ h2.resp-accordion.resp-tab-active {
 .newsletter-form-icon .quform-has-error input,
 .newsletter-form-icon .quform-has-error textarea,
 .newsletter-form-icon .quform-has-error select {
-    border-color: #EB4304
+    border-color: #A21615
 }
 
 .newsletter-form-icon .quform-input .quform-errors-wrap {
@@ -6372,7 +6372,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .social-icon-style2 li a i {
-    color: #EB4304
+    color: #A21615
 }
 
 .social-icon-style2 li a i:hover {
@@ -6396,7 +6396,7 @@ h2.resp-accordion.resp-tab-active {
 .social-icon-style3 li a:hover,
 .social-icon-style3 li a:active,
 .social-icon-style3 li a:focus {
-    color: #EB4304
+    color: #A21615
 }
 
 .social-icon-style4 li {
@@ -6426,7 +6426,7 @@ h2.resp-accordion.resp-tab-active {
 }
 
 .social-icon-style4 li a:hover {
-    color: #EB4304
+    color: #A21615
 }
 
 @media screen and (max-width: 1199px) {
@@ -6445,7 +6445,7 @@ h2.resp-accordion.resp-tab-active {
     font-size: 14px;
     text-align: center;
     color: #ffffff;
-    background: #EB4304;
+    background: #A21615;
     height: 38px;
     line-height: 38px;
     width: 38px;
@@ -6488,7 +6488,7 @@ footer .email a:focus:after {
 footer .email a:hover,
 footer .email a:active,
 footer .email a:focus {
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 footer .email a:after {
@@ -6516,7 +6516,7 @@ footer .phone a {
 footer .phone a:hover,
 footer .phone a:active,
 footer .phone a:focus {
-    color: #EB4304 !important
+    color: #A21615 !important
 }
 
 @media screen and (max-width: 767px) {
