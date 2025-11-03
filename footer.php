@@ -8,7 +8,7 @@
                         <h3 class="h4 text-white mb-1-9">About Walksey Logistics</h3>
                         <p class="text-white mb-1-6">We deliver freight and last-mile services with precision, transparency, and real-time visibility.</p>
                         <ul class="social-icon-style4 list-unstyled mb-0 ps-0">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="ti-facebook"></i></a></li> -->
                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
                             <li><a href="#"><i class="ti-instagram"></i></a></li>
                         </ul>

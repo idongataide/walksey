@@ -28,7 +28,7 @@
                         <div class="ps-lg-1-6 ps-xl-2-9">
                             <div class="mb-1-9 mb-xl-2-6 wow fadeInUp" data-wow-delay="100ms">
                                 <div class="title-style02">
-                                    <h2 class="display-4 font-weight-800 lh-1 ls-minus-2px mb-0">About  Walksey Logistics Limited</h2>
+                                    <h2 class="display-4 font-weight-800 lh-1 ls-minus-2px mb-0">About <br/>  Walksey Logistics</h2>
                                 </div>
                             </div>
                             <div class="">
@@ -175,7 +175,7 @@
                                 Join a fast-growing logistics company building the <br/> future of smart transport and supply chains.
                             </p>
                         </div>
-                        <div class="row  border-bottom pb-8 mb-5">
+                        <div class="row border-bottom pb-8 mb-5">
 
                             <div class="col-sm-6 col-lg-3 mt-2-9 wow fadeInUp" data-wow-delay="250ms">
                                 <div class="text-center process-block">
@@ -227,7 +227,7 @@
 
                         <h3 class="mb-3 display-md-22 py-2 font-weight-700">Roles We Hire</h3>
                         <div class="row mb-1-6 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">
-                            <div class="col-md-4">
+                            <div class="col-md-5">
                                 <ul class="list-unstyled mb-3">
                                     <li class="mb-2">
                                         <i class="fa-solid fa-square-check me-2 text-primary"></i>Driver & fleet operations
@@ -237,7 +237,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-md-4">
+                            <div class="col-md-7">
                                 <ul class="list-unstyled me-sm-9 ms-1">
                                     <li class="mb-2">
                                         <i class="fa-solid fa-square-check me-2 text-primary"></i>Technology & systems support
