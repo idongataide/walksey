@@ -74,7 +74,7 @@
                     </div>                   
                     <div class="card card-style01 rounded border-0 mt-3 bg-transparent">
                         <div class="position-relative overflow-hidden rounded-top">
-                            <img src="img/services/service-12.jpg" alt="..." class="rounded-top">
+                            <img src="img/services/service-13.jpg" alt="..." class="rounded-top">
                         </div>
                         <div class="card-body text-center">
                             <h3 class="mb-0 h5"><a href="contact.php"> Port & Terminal Operations</a></h3>
@@ -82,7 +82,7 @@
                     </div>
                     <div class="card card-style01 rounded border-0 mt-3 bg-transparent">
                         <div class="position-relative overflow-hidden rounded-top">
-                            <img src="img/services/service-12.jpg" alt="..." class="rounded-top">
+                            <img src="img/services/service-13.jpg" alt="..." class="rounded-top">
                         </div>
                         <div class="card-body text-center">
                             <h3 class="mb-0 h5"><a href="contact.php">Last-Mile Delivery</a></h3>
