@@ -125,8 +125,8 @@
 
                     <div class="col-sm-6 col-lg-3">
                         <div class="portfolio-box">
-                            <div class="bg-img rounded" data-background="img/portfolio/portfolio-08.jpg">
-                                <img src="img/portfolio/portfolio-08.jpg" alt="Real-time visibility & tracking" class="d-none">
+                            <div class="bg-img rounded" data-background="img/portfolio/lady.jpg">
+                                <img src="img/portfolio/lady.jpg" alt="Real-time visibility & tracking" class="d-none">
                             </div>
                             <div class="content-box">
                                 <h3 class="mb-2"><a href="#">Real-time visibility & tracking</a></h3>
@@ -180,7 +180,7 @@
                             <div class="col-sm-6 col-lg-3 mt-2-9 wow fadeInUp" data-wow-delay="250ms">
                                 <div class="text-center process-block">
                                     <div class="process-img">
-                                        <img src="img/content/1.png" class="mb-4 rounded-circle" alt="High-performance culture">
+                                        <img src="img/content/03.png" class="mb-4 rounded-circle" alt="High-performance culture">
                                         <div class="count-size"><span class="number">01</span></div>
                                     </div>
                                     <h3 class="h6 mb-3">High-performance culture</h3>
@@ -188,32 +188,34 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-6 col-lg-3 mt-2-9 wow fadeInUp" data-wow-delay="400ms">
-                                <div class="text-center process-block">
-                                    <div class="process-img">
-                                        <img src="img/content/process-02.jpg" class="mb-4 rounded-circle" alt="Career mobility & training">
-                                        <div class="count-size"><span class="number">02</span></div>
-                                    </div>
-                                    <h3 class="h6 mb-3">Career mobility & training</h3>
-                                    <p class="mb-0 mx-auto w-95">Grow your career with structured training and opportunities across departments.</p>
-                                </div>
-                            </div>
-
                             <div class="col-sm-6 col-lg-3 mt-2-9 wow fadeInUp" data-wow-delay="550ms">
                                 <div class="text-center process-block">
                                     <div class="process-img">
-                                        <img src="img/content/process-01.jpg" class="mb-4 rounded-circle" alt="Safety-first environment">
-                                        <div class="count-size"><span class="number">03</span></div>
+                                        <img src="img/content/04.png" class="mb-4 rounded-circle" alt="Safety-first environment">
+                                        <div class="count-size"><span class="number">02</span></div>
                                     </div>
                                     <h3 class="h6 mb-3">Safety-first environment</h3>
                                     <p class="mb-0 mx-auto w-95">We prioritize your safety and well-being across every operation and work process.</p>
                                 </div>
                             </div>
 
+                            <div class="col-sm-6 col-lg-3 mt-2-9 wow fadeInUp" data-wow-delay="400ms">
+                                <div class="text-center process-block">
+                                    <div class="process-img">
+                                        <img src="img/content/process-02.jpg" class="mb-4 rounded-circle" alt="Career mobility & training">
+                                        <div class="count-size"><span class="number">03</span></div>
+                                    </div>
+                                    <h3 class="h6 mb-3">Career mobility & training</h3>
+                                    <p class="mb-0 mx-auto w-95">Grow your career with structured training and opportunities across departments.</p>
+                                </div>
+                            </div>
+
+                          
+
                             <div class="col-sm-6 col-lg-3 mt-2-9 wow fadeInUp" data-wow-delay="700ms">
                                 <div class="text-center process-block">
                                     <div class="process-img">
-                                        <img src="img/content/process-04.jpg" class="mb-4 rounded-circle" alt="Opportunity to shape a scaling logistics brand">
+                                        <img src="img/content/02.png" class="mb-4 rounded-circle" alt="Opportunity to shape a scaling logistics brand">
                                         <div class="count-size"><span class="number">04</span></div>
                                     </div>
                                     <h3 class="h6 mb-3">Opportunity to shape a scaling brand</h3>
