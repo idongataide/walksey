@@ -109,7 +109,7 @@ a:active {
 }
 
 .secondary-overlay[data-overlay-dark]:before {
-    background: #003751
+    background: #171a20;
 }
 
 .left-overlay-secondary[data-overlay-dark]:before {
