@@ -5,7 +5,7 @@
                 <div class="row align-items-center position-relative z-index-1 justify-content-center">
                     <div class="col-lg-9 col-xxl-8 text-center py-4">
                         <h1 class="display-1 text-white mb-3 font-weight-800 lh-1 wow fadeInUp" data-wow-delay="100ms">Technology-powered logistics for a faster, smarter supply chain</h1>
-                        <p class="mb-4 text-white wow fadeInUp" data-wow-delay="150ms">We deliver freight and last-mile services with precision, transparency, and real-time visibility, helping businesses move goods smarter, safer, and more efficiently across the UK and Europe.</p>
+                        <p class="mb-4 text-white wow fadeInUp" data-wow-delay="150ms">We deliver freight and last-mile services with precision, transparency, and real-time visibility, helping businesses move goods smarter, safer, and more efficiently across the United Kingdom.</p>
                         <a href="contact.php" class="butn-style03 m-1 wow fadeInUp" data-wow-delay="200ms">Get Started</a>
                     </div>
                 </div>
@@ -142,8 +142,8 @@
                                 <img src="img/portfolio/portfolio-07.jpg" alt="UK-EU transport capability" class="d-none">
                             </div>
                             <div class="content-box">
-                                <h3 class="mb-2"><a href="#">UK Transport Capability</a></h3>
-                                <p class="text-white opacity7">Seamless domestic logistics solutions across the UK, ensuring speed and reliability</p>
+                                <h3 class="mb-2"><a href="#">UK transport capability</a></h3>
+                                <p class="text-white opacity7">Seamless domestic logistics solutions across the UK, ensuring speed and reliability.</p>
                                 <div class="link text-end"><a href="#" class="portfolio-link"><i class="ti-arrow-right link-arrow"></i></a></div>
                             </div>
                         </div>
