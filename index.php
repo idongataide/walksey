@@ -142,8 +142,8 @@
                                 <img src="img/portfolio/portfolio-07.jpg" alt="UK-EU transport capability" class="d-none">
                             </div>
                             <div class="content-box">
-                                <h3 class="mb-2"><a href="#">UK-EU transport capability</a></h3>
-                                <p class="text-white opacity7">Seamless cross-border logistics solutions connecting the UK and EU with speed and reliability.</p>
+                                <h3 class="mb-2"><a href="#">UK Transport Capability</a></h3>
+                                <p class="text-white opacity7">Seamless domestic logistics solutions across the UK, ensuring speed and reliability</p>
                                 <div class="link text-end"><a href="#" class="portfolio-link"><i class="ti-arrow-right link-arrow"></i></a></div>
                             </div>
                         </div>
