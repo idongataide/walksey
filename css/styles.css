@@ -990,7 +990,7 @@ only screen and (min-width: 992px) and (max-width: 1199px) {
 
 .top-bar-info li {
     font-weight: 500;
-    color: #fff;
+    color: #fff !important;
     list-style-type: none;
     font-size: 14px;
     padding: 0 5px 0;
